@@ -1,0 +1,24 @@
+{
+  "name": "wnoc",
+  "version": "1.0.0",
+  "description": "This is a result of our team! (Aim, Simba, Mr.New)",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "npm start --prefix client",
+    "client-install": "npm install --prefix client",
+    "server": "nodemon server/server.js",
+    "start": "node server.js",
+    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
+  },
+  "author": "Aim, Simba, Mr.New",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^6.2.1",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.13",
+    "styled-components": "^5.3.3"
+  }
+}

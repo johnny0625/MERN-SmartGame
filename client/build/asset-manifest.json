@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67302ec2.chunk.css",
+    "main.js": "/static/js/main.3d83ae46.chunk.js",
+    "main.js.map": "/static/js/main.3d83ae46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d4def228.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d4def228.js.map",
+    "static/js/2.f36abcd9.chunk.js": "/static/js/2.f36abcd9.chunk.js",
+    "static/js/2.f36abcd9.chunk.js.map": "/static/js/2.f36abcd9.chunk.js.map",
+    "static/js/3.968e89f3.chunk.js": "/static/js/3.968e89f3.chunk.js",
+    "static/js/3.968e89f3.chunk.js.map": "/static/js/3.968e89f3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.67302ec2.chunk.css.map": "/static/css/main.67302ec2.chunk.css.map",
+    "static/js/2.f36abcd9.chunk.js.LICENSE.txt": "/static/js/2.f36abcd9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.c52bd0b3.jpeg",
+    "static/media/coinflip_lose.wav": "/static/media/coinflip_lose.fa77d135.wav",
+    "static/media/coinflip_space.wav": "/static/media/coinflip_space.59365ba9.wav",
+    "static/media/coinflip_win.wav": "/static/media/coinflip_win.81ba67a1.wav",
+    "static/media/dice_lose.wav": "/static/media/dice_lose.fa77d135.wav",
+    "static/media/dice_space.wav": "/static/media/dice_space.8b692cb7.wav",
+    "static/media/dice_win.wav": "/static/media/dice_win.413fd435.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4def228.js",
+    "static/js/2.f36abcd9.chunk.js",
+    "static/css/main.67302ec2.chunk.css",
+    "static/js/main.3d83ae46.chunk.js"
+  ]
+}
